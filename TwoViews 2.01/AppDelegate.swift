@@ -3,7 +3,7 @@
 //  TwoViews 2.01
 //
 //  Created by Dmitry Parhomenko on 01.11.2023.
-//
+//  SwiftBook Group 39
 
 import UIKit
 
